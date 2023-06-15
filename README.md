@@ -9,6 +9,16 @@ My personal zsh prompt theme, using the [darkblood theme](https://github.com/ohm
 ![return status](images/return_status.png)
 ![PS2 line](images/PS2.png)
 
+## Dependencies
+
+- [git.zsh](https://github.com/ohmyzsh/ohmyzsh/tree/master/lib/git.zsh)
+- [vcs_info.zsh](https://github.com/ohmyzsh/ohmyzsh/tree/master/lib/vcs_info.zsh)
+- [theme-and-appearance.zsh](https://github.com/ohmyzsh/ohmyzsh/tree/master/lib/theme-and-appearance.zsh)
+
+If you are using oh-my-zsh -- with or without the addition of a plugin manager -- I believe all of these files get sourced automagically. If you just found this theme on the interwebs and wanted to check it out, you'll have to grab each of those files and manually source them yourself!
+
+### Extra side notes
+
 *NOTE 1* I sourced my colors from the included rose-pine-moon.conf file that was made for a kitty terminal ([rose-pine/kitty](https://github.com/rose-pine/kitty)).
 
 *NOTE 1.5* I wanted to say that this is my first time manually customizing stuff in linux, so please bear with me for any noobish mistakes and/or problems that may arise along the way :)
