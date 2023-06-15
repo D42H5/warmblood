@@ -6,5 +6,5 @@ My personal zsh prompt theme, using the [darkblood theme](https://github.com/ohm
 ![ls example](images/ls.png)
 ![clean git branch](images/git_clean.png)
 ![dirty git branch](images/git_dirty.png)
-![command status](images/command_status.png)
+![return status](images/return_status.png)
 ![PS2 line](images/PS2.png)
